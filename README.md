@@ -23,3 +23,13 @@ Learn the edit mode:
 - <kbd>i</kbd>: inset face
 
 ![desk](media/desk.png)
+
+### Donut Tutorial - Part 6/7 - Rendering/Texturing
+
+Learn the shader node:
+
+- Principled BSDF, based on the Disney PBR shader
+- Noise texture + color ramp
+- Bump normal
+
+![wood-desk](./media/wood-desk.png)
