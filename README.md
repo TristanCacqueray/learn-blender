@@ -65,3 +65,5 @@ In edit mode:
 - <kbd>o</kbd>: proportional editing
 
 ![sword](./media/sword.png)
+
+![desk2](./media/desk2.png)
