@@ -33,3 +33,19 @@ Learn the shader node:
 - Bump normal
 
 ![wood-desk](./media/wood-desk.png)
+
+
+### Get Good @ Blender - Part 2 - Beginner Exercises
+
+Learn modifier. In object mode:
+
+- <kbd>shift</kbd><kbd>h</kbd>: hide all but selected, use <kbd>alt</kbd> for inverse.
+- <kbd>n</kbd>: show item
+- <kbd>ctrl</kbd><kbd>a</kbd>: apply transformation/scaling
+
+In edit mode:
+
+- <kbd>c</kbd>: circle select
+- <kbd>alt</kbd><kbd>e</kbd>: extrude individual
+
+![wheel](./media/wheel.png)
