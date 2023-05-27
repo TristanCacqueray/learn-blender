@@ -8,6 +8,11 @@ Video resources:
 
 ## Notes
 
+### General tips
+
+- Edit -> Preference -> Interface -> Line Width: *thick*
+- Camera properties -> Viewport Display -> Composition Guide -> *thirds*, *diagonals*, ...
+
 ### Donut Tutorial - Part 1 - The basics
 
 Learn how to move around and select things.
@@ -49,3 +54,14 @@ In edit mode:
 - <kbd>alt</kbd><kbd>e</kbd>: extrude individual
 
 ![wheel](./media/wheel.png)
+
+### Get Good @ Blender - Part 3 - Beginner Exercises
+
+In edit mode:
+
+- Select menu: select more
+- Addon: auto mirror tool, available in edit on the left
+- <kbd>g</kbd><kbd>g</kbd>: grab along edge
+- <kbd>o</kbd>: proportional editing
+
+![sword](./media/sword.png)
