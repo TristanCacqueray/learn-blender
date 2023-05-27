@@ -12,6 +12,7 @@ Video resources:
 
 - Edit -> Preference -> Interface -> Line Width: *thick*
 - Camera properties -> Viewport Display -> Composition Guide -> *thirds*, *diagonals*, ...
+- <kbd>shift</kbd><kbd>c</kbd>: put cursor in the center
 
 ### Donut Tutorial - Part 1 - The basics
 
@@ -67,3 +68,18 @@ In edit mode:
 ![sword](./media/sword.png)
 
 ![desk2](./media/desk2.png)
+
+
+### Get Good @ Blender - Part 4 - Beginner Exercises
+
+Learn about repeat modifier:
+
+- <kbd>ctrl</kbd><kbd>j</kbd>: join objects
+- Combine 3 array modifiers to repeat a wall pattern:
+
+![wall](./media/wall.png)
+
+- <kbd>k</kbd>: cut tool
+- <kbd>f</kbd>: make face
+
+![planks](./media/planks.png)
