@@ -9,6 +9,8 @@ Video resources:
 
 ## Notes
 
+Each tutorials takes between 10 to 20 minutes. Let's get started!
+
 ### General tips
 
 - Edit -> Preference -> Interface -> Line Width: **thick**
@@ -128,9 +130,18 @@ Learn about repeat modifier:
 ![voronoi2](./media/voronoi2.png)
 
 
+### [Blender 3D - Create a 3D Isometric BEDROOM](https://www.youtube.com/watch?v=yCHT23A6aJA)
+
+![lowpoly-isometric-room](./media/lowpoly-isometric-room.png)
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
+
+## Photorealism
+
+![light-scale](./media/light-scale.png)
+![exposure](./media/exposure.png)
 
 
 [grabbitt]: https://www.youtube.com/@grabbitt
