@@ -5,6 +5,7 @@ Video resources:
 - [The BEST Way To Learn Blender in 2023!!](https://www.youtube.com/watch?v=8K4AShjq-MU) by [Ducky 3D](https://www.youtube.com/@TheDucky3D)
 - [Get Good @ Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) by [Grant Abbitt][grabbitt]
 - [Donut Tutorial](https://www.blenderguru.com/tutorials/2022/1/27/how-to-use-blender) by [Blender Guru](https://www.blenderguru.com)
+- [Nodes 4 Noobs](https://www.youtube.com/playlist?list=PLn3ukorJv4vtnU_TaZob7QD6Q8d9C9Ki7) by [Grant Abbitt][grabbitt]
 
 ## Notes
 
@@ -13,6 +14,12 @@ Video resources:
 - Edit -> Preference -> Interface -> Line Width: **thick**
 - Camera properties -> Viewport Display -> Composition Guide -> **thirds**, **diagonals**, ...
 - <kbd>shift</kbd><kbd>c</kbd>: put cursor in the center
+
+### Node wrangler addon
+
+- <kbd>ctrl</kbd><kbd>t</kbd>: plug texture coordinate
+- <kbd>ctrl</kbd><kbd>shift</kbd><kbd>left-click</kbd>: preview node
+- drag <kbd>ctrl</kbd><kbd>shift</kbd><kbd>right-click</kbd>: mix two nodes
 
 ### Donut Tutorial - Part 1 - The basics
 
@@ -106,11 +113,20 @@ Learn about repeat modifier:
 ![balls](./media/balls.png)
 
 
-## Assets
+### Nodes 4 Noobs | Lvl 1
 
-### ocean.blend
+![ocean](./media/ocean.png)
 
-![ocean](./assets/ocean.png)
+### Nodes 4 Noobs | Lvl 2
+
+![node-voronoi](./media/node-voronoi.png)
+![musgrave](./media/musgrave.png)
+
+### Nodes 4 Noobs | Lvl 3
+
+![musgrave2](./media/musgrave2.png)
+![voronoi2](./media/voronoi2.png)
+
 
 # Backlog
 
