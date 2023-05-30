@@ -141,6 +141,27 @@ Learn about repeat modifier:
 ![geometry-network](./media/geometry-network.png)
 
 
+### [How To Get That Modern 3D Look in Blender](https://www.youtube.com/watch?v=eDTvDHIa7TE) by [Ducky 3D][d3]
+
+In edit mode:
+
+- <kbd>f3</kbd>: Mesh -> Separate -> By Loose Parts
+- Then in object mode, <kbd>m</kbd>: move to new collection
+
+![separate-loose-parts](./media/separate-loose-parts.png)
+
+- Glass material
+
+![material-glass](./media/material-glass.png)
+
+- Light noise shader for cycles
+
+![light-noise-cycle](./media/light-noise-cycle.png)
+
+- Result:
+
+![modern-look](./media/modern-look.png)
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
