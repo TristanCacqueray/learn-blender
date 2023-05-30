@@ -162,6 +162,8 @@ In edit mode:
 
 ![modern-look](./media/modern-look.png)
 
+### [The Loop Hole #01 - Looping Smoke Simulations](https://www.youtube.com/watch?v=EJkX83giWlg) by [Midge Sinnaeve][mantissa.xyz]
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
@@ -174,3 +176,4 @@ In edit mode:
 
 [grabbitt]: https://www.youtube.com/@grabbitt
 [d3]: https://www.youtube.com/@TheDucky3D
+[mantissa.xyz]: https://mantissa.xyz
