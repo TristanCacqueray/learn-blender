@@ -2,7 +2,7 @@
 
 Video resources:
 
-- [The BEST Way To Learn Blender in 2023!!](https://www.youtube.com/watch?v=8K4AShjq-MU) by [Ducky 3D](https://www.youtube.com/@TheDucky3D)
+- [The BEST Way To Learn Blender in 2023!!](https://www.youtube.com/watch?v=8K4AShjq-MU) by [Ducky 3D][d3]
 - [Get Good @ Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) by [Grant Abbitt][grabbitt]
 - [Donut Tutorial](https://www.blenderguru.com/tutorials/2022/1/27/how-to-use-blender) by [Blender Guru](https://www.blenderguru.com)
 - [Nodes 4 Noobs](https://www.youtube.com/playlist?list=PLn3ukorJv4vtnU_TaZob7QD6Q8d9C9Ki7) by [Grant Abbitt][grabbitt]
@@ -134,6 +134,13 @@ Learn about repeat modifier:
 
 ![lowpoly-isometric-room](./media/lowpoly-isometric-room.png)
 
+### [10 Minute Tutorial - Build a Simple Network in Geometry Nodes (Blender Abstract tutorial)](https://www.youtube.com/watch?v=vcESjx01DdA) by [Ducky 3D][d3]
+
+![geometry-nodes](./media/geometry-nodes.png)
+
+![geometry-network](./media/geometry-network.png)
+
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
@@ -145,3 +152,4 @@ Learn about repeat modifier:
 
 
 [grabbitt]: https://www.youtube.com/@grabbitt
+[d3]: https://www.youtube.com/@TheDucky3D
