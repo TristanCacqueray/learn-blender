@@ -183,6 +183,11 @@ In edit mode:
 
 Result:
 
+https://github.com/TristanCacqueray/learn-blender/assets/154392/ee58da89-6403-40c8-8457-3dad7f67726b
+
+
+
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
