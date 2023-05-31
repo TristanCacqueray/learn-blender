@@ -162,7 +162,26 @@ In edit mode:
 
 ![modern-look](./media/modern-look.png)
 
-### [The Loop Hole #01 - Looping Smoke Simulations](https://www.youtube.com/watch?v=EJkX83giWlg) by [Midge Sinnaeve][mantissa.xyz]
+### Loop smoke
+
+- Tutorial video: [The Loop Hole #01 - Looping Smoke Simulations](https://www.youtube.com/watch?v=EJkX83giWlg) by [Midge Sinnaeve][mantissa.xyz]
+
+- Loop technique:
+  - Disable flow after frame 150, bake 300 frames.
+  - Import the fluid data twice, and offset the second version by 150.
+  - Set render loop to 150 frame, and confirm the first and last frame are the same.
+
+- Domain settings:
+![loop-smoke-domain](./media/loop-smoke-domain.png)
+
+- Emitter settings:
+![loop-smoke-emiter](./media/loop-smoke-emiter.png)
+
+- Smoke shader:
+
+![loop-smoke-shader](./media/loop-smoke-shader.png)
+
+Result:
 
 # Backlog
 
