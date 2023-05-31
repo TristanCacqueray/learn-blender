@@ -183,8 +183,7 @@ In edit mode:
 
 Result:
 
-https://github.com/TristanCacqueray/learn-blender/assets/154392/ee58da89-6403-40c8-8457-3dad7f67726b
-
+https://github.com/TristanCacqueray/learn-blender/assets/154392/b008792d-d1b0-4410-aca4-b1a747a20667
 
 
 
