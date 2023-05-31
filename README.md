@@ -172,9 +172,11 @@ In edit mode:
   - Set render loop to 150 frame, and confirm the first and last frame are the same.
 
 - Domain settings:
+
 ![loop-smoke-domain](./media/loop-smoke-domain.png)
 
 - Emitter settings:
+
 ![loop-smoke-emiter](./media/loop-smoke-emiter.png)
 
 - Smoke shader:
@@ -185,7 +187,23 @@ Result:
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/b008792d-d1b0-4410-aca4-b1a747a20667
 
+### Contoured Curls
 
+- Tutorial video: [Weird Shit S02E02 - Contoured Curls (Blender Curl Noise Volume)](https://www.youtube.com/watch?v=w8jOBRMlaTU) by [Midge Sinnaeve][mantissa.xyz]
+
+- Addon: modifier tools, to apply all
+
+- Remesh modifier:
+
+![remesh-modifier](./media/remesh-modifier.png)
+
+- Dynamic paint mask:
+
+![dynpaint-mask](./media/dynpaint-mask.png)
+
+Result:
+
+![contoured-curls](./media/contoured-curls.png)
 
 # Backlog
 
