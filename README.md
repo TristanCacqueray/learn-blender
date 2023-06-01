@@ -205,6 +205,15 @@ Result:
 
 ![contoured-curls](./media/contoured-curls.png)
 
+- Create geometry taper with poly spline:
+
+![spline-taper](./media/spline-taper.png)
+
+
+Result:
+
+![contoured-curls](./media/contoured-curls-taped.png)
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
