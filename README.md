@@ -16,6 +16,7 @@ Each tutorials takes between 10 to 20 minutes. Let's get started!
 - Edit -> Preference -> Interface -> Line Width: **thick**
 - Camera properties -> Viewport Display -> Composition Guide -> **thirds**, **diagonals**, ...
 - <kbd>shift</kbd><kbd>c</kbd>: put cursor in the center
+- <kbd>ctrl</kvd><kbd>alt</kbd><kbd>0</kbd>: move camera to the current view
 
 ### Node wrangler addon
 
@@ -213,6 +214,20 @@ Result:
 Result:
 
 ![contoured-curls](./media/contoured-curls-taped.png)
+
+### Looping an Abstract Particle System
+
+- Tutorial video: [The Loop Hole #02 - Looping an Abstract Particle System](https://www.youtube.com/watch?v=UUPFE99Ou3E)
+
+- Set particle drag:
+
+![particule-drag](media/particule-drag.png)
+
+Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/4ad857cc-e8bd-464a-9935-122d3ec853a9
+
+
 
 # Backlog
 
