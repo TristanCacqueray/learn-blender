@@ -111,8 +111,6 @@ Learn about repeat modifier:
 
 ![supporting-edge-loop](./media/supporting-edge-loop.png)
 
-
-
 ![balls](./media/balls.png)
 
 
@@ -228,6 +226,13 @@ Result:
 https://github.com/TristanCacqueray/learn-blender/assets/154392/4ad857cc-e8bd-464a-9935-122d3ec853a9
 
 
+### The Shear Tool
+
+- Tutorial video: [Get Good At Blender 3 - The Shear Tool](https://www.youtube.com/watch?v=N8O0bE898Qc&list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN&index=23) by [Grant Abbitt][grabbitt]
+
+![shear-tool](./media/shear-tool.png)
+
+![shear](./media/shear.png)
 
 # Backlog
 
