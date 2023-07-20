@@ -29,8 +29,13 @@ Create terrain:
 
 - Lower light custom distance
 - Add irradiance volume
+
+![rtmg-irradiance](media/rtmg-irradiance.png)
+
 - Adjust probes
 - Bake the indirect light
 - Display irradiance size to observe the effect
+
+![rtmg-irradiance-debug](media/rtmg-irradiance-debug.png)
 
 ![rtmg-01](./media/rtmg-01.jpg)
