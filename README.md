@@ -240,7 +240,7 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/4ad857cc-e8bd-46
 
 Result:
 
-![fog-render](./assets/fog-render.jpg)
+![fog-render](./media/fog-render.jpg)
 
 # Backlog
 
