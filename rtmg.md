@@ -1,3 +1,28 @@
+[Real Time Motion Graphics](https://blendermarket.com/products/rtmg)
+====================================================================
+
+# Shortcuts
+
+## Viewport
+
+- <kbd>shift</kbd><kbd>c</kbd>: move the cursor to the origin of the scene
+- <kbd>shift</kbd><kbd>z</kbd>: toggle wireframe view
+
+- <kbd>ctrl</kbd><kbd>alt</kbd><kbd>0</kbd>: move camera to match the current view
+
+## Object mode
+
+- <kbd>ctrl</kbd><kbd>a</kbd>: apply transformation/scaling
+
+## Edit mode
+
+- <kbd>ctrl</kbd><kbd>a</kbd>: changes the vertex radius (useful with skin modifier)
+
+## Timeline
+
+- <kbd>shift</kbd><kbd>left/right</kbd>: jump to begining/end
+
+
 # Intro
 
 ## 1 - Setup
@@ -38,4 +63,22 @@ Create terrain:
 
 ![rtmg-irradiance-debug](media/rtmg-irradiance-debug.png)
 
+- Result:
+
 ![rtmg-01](./media/rtmg-01.jpg)
+
+
+# Second part
+
+## 204 - Deforming Arrays
+
+Create a rope procedurally.
+
+- apply array modifier using an empty plane offset object
+- rotate the plane offset to create the threads
+- apply simple deform modifier for the twist effect
+- apply curve modifier to follow a bezier path
+
+- Result:
+
+![rtmg-02-rope](./media/rtmg-02-rope.jpg)
