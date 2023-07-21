@@ -234,6 +234,14 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/4ad857cc-e8bd-46
 
 ![shear](./media/shear.png)
 
+### Fog render with principled volume shader
+
+- From: [One hour of greeble](https://www.youtube.com/watch?v=pKxbSiK6NE0)
+
+Result:
+
+![fog-render](./assets/fog-render.jpg)
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
