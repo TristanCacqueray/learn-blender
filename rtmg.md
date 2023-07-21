@@ -92,3 +92,8 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/b472fac8-2e4f-40
 - move, rotate and scale the empty plane
 
 - try adding wireframe modifier
+- Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4abd-bb8d-ec35f140e3c7
+
+
