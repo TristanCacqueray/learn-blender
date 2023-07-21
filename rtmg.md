@@ -81,8 +81,14 @@ Create a rope procedurally.
 
 - Result:
 
-![rtmg-02-rope](./media/rtmg-02-rope.jpg)
-
-
 https://github.com/TristanCacqueray/learn-blender/assets/154392/b472fac8-2e4f-40af-8ea6-8f86c38dfacb
 
+## 205 - Vertex Weights I
+
+- apply vertex weight modifier using a texture or gradient
+- apply displace modifier using the vertex group
+- set vertex modifier texture coordinate to an empty plane
+- apply vertex weight mix using subtract mix mode
+- move, rotate and scale the empty plane
+
+- try adding wireframe modifier
