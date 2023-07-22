@@ -96,4 +96,11 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/b472fac8-2e4f-40
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4abd-bb8d-ec35f140e3c7
 
+## 206 - Vertex Weights II
 
+- with loop tools, space vertex on a side
+- set multiple vertex group and adjust weight using empty control cube
+
+- Result:
+
+![rtmg-vwg](media/rtmg-vwg.png)
