@@ -242,6 +242,16 @@ Result:
 
 ![fog-render](./media/fog-render.jpg)
 
+### planet-loop
+
+- Tutorial video: [Physics Loop](https://www.youtube.com/watch?v=C6lF9yv0tXY) by [Ducky 3D][d3]
+
+- Use dynamic paint physic to displace a canvas mesh:
+
+![dynamic-paint](media/dynamic-paint.png)
+
+
+
 # Backlog
 
 - [Compositor Series](https://www.youtube.com/watch?v=M20P4tkNWLM&list=PLn3ukorJv4vvH9O2bE6I8c0rjcz3oot8G) by [Grant Abbitt][grabbitt]
