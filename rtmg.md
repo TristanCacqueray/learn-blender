@@ -104,3 +104,17 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4a
 - Result:
 
 ![rtmg-vwg](media/rtmg-vwg.png)
+
+## 208 - Masked Grid
+
+- in uv editor, scale each point to 0
+
+![uv-editor-scale](media/uv-editor-scale.png)
+
+- apply mask modifier to remove vertices
+
+![mask-mod](media/mask-mod.png)
+
+- Result:
+
+![rtmg-masked-grid](media/rtmg-05-masked-grid.jpg)
