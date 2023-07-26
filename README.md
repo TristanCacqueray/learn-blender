@@ -250,6 +250,10 @@ Result:
 
 ![dynamic-paint](media/dynamic-paint.png)
 
+Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/ba6e1fcc-7f3d-49cb-b603-201ec757d1c6
+
 
 
 # Backlog
