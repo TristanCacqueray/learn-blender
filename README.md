@@ -254,7 +254,11 @@ Result:
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/ba6e1fcc-7f3d-49cb-b603-201ec757d1c6
 
+### Geo Cyber
 
+- Tutorial video: [Cyberpunk planet with Blender Geometry Nodes](https://www.youtube.com/watch?v=IPybvou9l50) by [Aaron Van de Weijenberg][aaronvdw]
+
+![geocyber-01](media/geocyber-01.png)
 
 # Backlog
 
@@ -269,3 +273,4 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/ba6e1fcc-7f3d-49
 [grabbitt]: https://www.youtube.com/@grabbitt
 [d3]: https://www.youtube.com/@TheDucky3D
 [mantissa.xyz]: https://mantissa.xyz
+[aaronvdw]: https://www.youtube.com/@aaronvdw
