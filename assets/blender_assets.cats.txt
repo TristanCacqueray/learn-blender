@@ -9,3 +9,4 @@ VERSION 1
 6023038a-e6c7-44a6-ab16-a6431d65666b:HDRI:HDRI
 2676a9e1-ec46-4878-ad22-3e3cf3a4a5c5:LowPoly:LowPoly
 151c7659-37a7-4580-913d-2bc15459f2db:Materials:Materials
+f5551544-a31b-4c9d-9e34-c3e871f0ca6b:Midge:Midge

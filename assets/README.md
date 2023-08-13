@@ -8,4 +8,4 @@ To add more assets:
 - click 'File' -> 'Append'
 - pick the asset from the blend file that contains it (to pull the data into the asset file)
 - click 'Mark as Asset'
-- In the 'Asset Browser', move the asset to the right collection.
+- In the 'Asset Browser', select the "learn-blender" library (instead of all), and move the asset to the right collection.
