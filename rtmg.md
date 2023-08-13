@@ -118,3 +118,32 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4a
 - Result:
 
 ![rtmg-masked-grid](media/rtmg-05-masked-grid.jpg)
+
+## 209 - Intricate Grid Pattern
+
+- apply remesh modifier to merge overlapping displace:
+
+![rtmg-remesh0](media/rtmg-remesh0.png)
+
+![rtmg-remesh1](media/rtmg-remesh1.png)
+
+## 210 - Organic Pattern
+
+- apply decimate modifier with un-subdivide to change polygone's direction
+- apply displace modifier with tiny strength texture to change decimate angle
+
+- Result:
+
+![rtmg-oganic](media/rtmg-organic.jpg)
+
+# Shading
+
+## 404 - Shading randomness
+
+- use object info random value:
+
+![rtmg-random-shading](media/rtmg-random-shading.png)
+
+- curved shader:
+
+![curved-shader](media/curved-shader.jpg)
