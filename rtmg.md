@@ -147,3 +147,8 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4a
 - curved shader:
 
 ![curved-shader](media/curved-shader.jpg)
+
+- Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/125c0bf2-f3bb-4cac-964c-47d4881f6b7c
+
