@@ -152,3 +152,8 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/d6f757c8-626c-4a
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/125c0bf2-f3bb-4cac-964c-47d4881f6b7c
 
+## 406 - Vector Manipulation
+
+- multiply object coordinate with a texture to distort another texture:
+
+![vector-math](media/vector-math.png)
