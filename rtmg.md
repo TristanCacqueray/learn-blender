@@ -157,3 +157,10 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/125c0bf2-f3bb-4c
 - multiply object coordinate with a texture to distort another texture:
 
 ![vector-math](media/vector-math.png)
+
+- Result:
+
+
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42c5-9ee0-571f34f0ddc9
+
