@@ -160,7 +160,10 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/125c0bf2-f3bb-4c
 
 - Result:
 
-
-
 https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42c5-9ee0-571f34f0ddc9
 
+## 407 - Dust shader
+
+- enable transparent BSDF in EEVE by switching blend mode to "Alpha Blend":
+
+![dust-shader](media/dust-shader.png)
