@@ -167,3 +167,9 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42
 - enable transparent BSDF in EEVE by switching blend mode to "Alpha Blend":
 
 ![dust-shader](media/dust-shader.png)
+
+## 408 - Shader To RGB
+
+- create cartoon shader using shader to RGB node:
+
+![cartoon-shader](media/cartoon-shader.png)
