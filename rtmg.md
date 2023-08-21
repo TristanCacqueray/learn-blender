@@ -173,3 +173,14 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42
 - create cartoon shader using shader to RGB node:
 
 ![cartoon-shader](media/cartoon-shader.png)
+
+
+## 303 - Looping Modifier
+
+- scale the graph view by pressing <kbd>ctrl</kbd><kbd>middle click</kbd> and moving the cursor to adjust the xaxis and yaxis
+
+- initialize sin modifier phase multiplier to `2*pi/frame_count` for seamless loop
+
+- unlink animation data by search with <kbd>f3</kbd> `animation data` in object view and pick "Relations" -> "Make Singe User" -> Objet Data Animation
+
+![rtmg-looping-modifier](media/rtmg-looping-modifier.png)
