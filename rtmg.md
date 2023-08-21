@@ -184,3 +184,9 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42
 - unlink animation data by search with <kbd>f3</kbd> `animation data` in object view and pick "Relations" -> "Make Singe User" -> Objet Data Animation
 
 ![rtmg-looping-modifier](media/rtmg-looping-modifier.png)
+
+- Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/755cb912-190b-4f2a-8f97-2edd1c597ce2
+
+
