@@ -189,4 +189,22 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/55cdb7c1-4379-42
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/755cb912-190b-4f2a-8f97-2edd1c597ce2
 
+- apply ocean modifier in displace mode. Set time driver to `#frame / 50`:
 
+![rtmg-ocean-wave](media/rtmg-ocean-wave.png)
+
+## 305 - Cloth cache
+
+- export cloth simulation bake as pc2 (point cache)
+
+- apply mesh cache modifier with frame offset for seamless loop
+
+![rtmg-cloth-cache](media/rtmg-cloth-cache.png)
+
+## 306 - Hair cache
+
+- loop two turbulences by key framing the strength
+
+- export simulation as alembic for curves
+
+- with curve geometry, add bevel/extrude, then export "as mesh" with alembic
