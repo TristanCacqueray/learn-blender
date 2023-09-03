@@ -201,6 +201,12 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/755cb912-190b-4f
 
 ![rtmg-cloth-cache](media/rtmg-cloth-cache.png)
 
+- Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/d2e7ede2-42fc-4da6-8be2-084352b1f392
+
+
+
 ## 306 - Hair cache
 
 - loop two turbulences by key framing the strength
@@ -208,3 +214,12 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/755cb912-190b-4f
 - export simulation as alembic for curves
 
 - with curve geometry, add bevel/extrude, then export "as mesh" with alembic
+
+- Result:
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/5aab25cd-f1f7-4f56-8f67-63af101d2071
+
+
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/f04a4f33-dacb-47ae-a779-b711c0a85f8e
+
