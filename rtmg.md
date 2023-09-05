@@ -219,7 +219,11 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/d2e7ede2-42fc-4d
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/5aab25cd-f1f7-4f56-8f67-63af101d2071
 
+- animate the color ramp of the blend texture displace:
 
+![rtmg-hair-cache](media/rtmg-hair-cache.png)
+
+
+- Result:
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/f04a4f33-dacb-47ae-a779-b711c0a85f8e
-
