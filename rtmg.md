@@ -227,3 +227,19 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/5aab25cd-f1f7-4f
 - Result:
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/f04a4f33-dacb-47ae-a779-b711c0a85f8e
+
+## 307 - Particule cache
+
+- setup a particule system
+
+![rtmg-particule](media/rtmg-particule.png)
+
+- apply particule instance modifier to spawn a mesh
+
+![rtmg-particule-modifier](media/rtmg-particule-modifier.png)
+
+- add a particule simulation texture to modify the size
+
+![rtmg-particule-texture](media/rtmg-particule-texture.png)
+
+- export the mesh as alembic, and re-import twice using time offset for seamless loop
