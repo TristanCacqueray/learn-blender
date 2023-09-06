@@ -243,3 +243,7 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/f04a4f33-dacb-47
 ![rtmg-particule-texture](media/rtmg-particule-texture.png)
 
 - export the mesh as alembic, and re-import twice using time offset for seamless loop
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/ab2bee05-9cd5-4cdd-93e5-938841a47ce3
+
+
