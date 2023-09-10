@@ -254,11 +254,15 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/ab2bee05-9cd5-4c
 
 ![rtmg-reflection](media/rtmg-reflection.png)
 
+https://github.com/TristanCacqueray/learn-blender/assets/154392/98bd9549-e551-484a-8911-d242e67e2c63
+
 ## 503/4 - Volumetrics
 
 - modulate principled volume shader density with a noise texture
 
 ![rtmg-particule-light](media/rtmg-particule-light.png)
+
+https://github.com/TristanCacqueray/learn-blender/assets/154392/57d2714e-10f1-4eb4-9533-a40291311de0
 
 ## 505 - Compositor
 
