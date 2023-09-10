@@ -246,4 +246,22 @@ https://github.com/TristanCacqueray/learn-blender/assets/154392/f04a4f33-dacb-47
 
 https://github.com/TristanCacqueray/learn-blender/assets/154392/ab2bee05-9cd5-4cdd-93e5-938841a47ce3
 
+## 502 - Reflections
 
+- add reflection plane light probe on a mirror surface
+
+- add reflection cube map around smooth mesh
+
+![rtmg-reflection](media/rtmg-reflection.png)
+
+## 503/4 - Volumetrics
+
+- modulate principled volume shader density with a noise texture
+
+![rtmg-particule-light](media/rtmg-particule-light.png)
+
+## 505 - Compositor
+
+![rtmg-compositor](media/rtmg-compositor.png)
+
+![rtmg-compositor-organic](media/rtmg-compositor-organic.jpg)
